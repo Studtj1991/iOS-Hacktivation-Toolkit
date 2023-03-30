@@ -1,0 +1,5 @@
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {"ghcr.io/flexwie/devcontainer-features/op:1": 
+  ://github.githubassets.com/images/icons/packages/container.svg }
+  "ghcr.io/devcontainers-contrib/features/prisma:2": {}
+ "ghcr.io/devcontainers-contrib/features/mybatis-sdkman:2": {}              
